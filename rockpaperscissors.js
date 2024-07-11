@@ -19,10 +19,10 @@ function getComputerChoice() {
 }
 
 //function for player choice 
-function getHumanChoice() {
-    let answer = prompt("Type your choice: Paper, rock, scissors: ");
-    return answer.toLowerCase();
-}
+//function getHumanChoice() {
+    //let answer = prompt("Type your choice: Paper, rock, scissors: ");
+    //return answer.toLowerCase();
+//}
 
 
 //function to play a round 
